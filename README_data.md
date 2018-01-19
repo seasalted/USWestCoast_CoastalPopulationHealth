@@ -2,12 +2,12 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 # Data description for project
 Summary of socioeconomic, food access, public health, fishery, and seafood nutrition information
-_____________________________________________________________________________________________
-
+======
 
 ## Data 
+------
 
-###Socioeconomics Data description
+### Socioeconomics Data description
 
 Source: US Census Dicennial Census
 Spatial Resolution: 
@@ -21,7 +21,7 @@ Temporal Resolution: Select years for 2000, 2010
 Description: ???
 Files: ???
 
-###Food Access data description
+### Food Access data description
 
 USDA/ERS Food Access Atlas
 Spatial Resolution: US Census Tracts
@@ -35,7 +35,7 @@ Temporal Resolution: ???
 Description: ???
 Files: ???
 
-###Fishery Data Description
+### Fishery Data Description
 
 Pacific States Marine Fisheries Commission - PacFIN database
 Spatial Resolution: ??? 
