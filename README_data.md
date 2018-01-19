@@ -8,8 +8,8 @@ Summary of socioeconomic, food access, public health, fishery, and seafood nutri
 
 ### Socioeconomics Data description
 
-Source: US Census Dicennial Census
-Spatial Resolution: 
+<p>Source: US Census Dicennial Census </p>
+<p>Spatial Resolution: </p>
 Temporal Resolution: Annual for 2000, 2010
 Description: ???
 Files:???
