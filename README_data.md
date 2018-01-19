@@ -1,7 +1,8 @@
 
 # Data description for project
-Summary of socioeconomic, food access, public health, fishery, and seafood nutrition information
 -----
+Summary of socioeconomic, food access, public health, fishery, and seafood nutrition information
+
 
 ## Data 
 
