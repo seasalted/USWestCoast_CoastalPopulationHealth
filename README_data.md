@@ -1,9 +1,9 @@
 
 # Data description for project
 Summary of socioeconomic, food access, public health, fishery, and seafood nutrition information
+-----
 
 ## Data 
------
 
 ### Socioeconomics Data description
 
@@ -36,6 +36,16 @@ Files: ???
 ### Fishery Data Description
 
 Pacific States Marine Fisheries Commission - PacFIN database
-Spatial Resolution: ??? 
-Temporal Resolution: Annual (2000-2017)
+Spatial Resolution: ???
+Temporal Resolution: Annual 2010-2017
+Description: ???
+Files: ???
+
+### Public health Data Description
+
+???
+Spatial Resolution: ???
+Temporal Resolution: ???
+Description: ???
+Files: ???
 
