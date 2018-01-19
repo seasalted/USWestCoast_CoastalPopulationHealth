@@ -6,7 +6,7 @@ Summary of socioeconomic, food access, public health, fishery, and seafood nutri
 
 ## Data 
 
-### Socioeconomics Data description
+### Socioeconomics data description
 
 Source: US Census Dicennial Census <br>
 Spatial Resolution: <br>
@@ -34,7 +34,7 @@ Temporal Resolution: ??? <br>
 Description: ??? <br>
 Files: ??? <br>
 
-### Fishery Data Description
+### Fishery data description
 
 Source: Pacific States Marine Fisheries Commission - PacFIN database <br>
 Spatial Resolution: ??? <br>
@@ -42,7 +42,7 @@ Temporal Resolution: Annual 2010-2017 <br>
 Description: ??? <br>
 Files: ??? <br>
 
-### Public health Data Description
+### Public health data description
 
 Source: ??? <br>
 Spatial Resolution: ??? <br>
