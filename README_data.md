@@ -22,13 +22,13 @@ Files: ??? <br>
 
 ### Food Access data description
 
-USDA/ERS Food Access Atlas <br>
+Source: USDA/ERS Food Access Atlas <br>
 Spatial Resolution: US Census Tracts <br>
 Temporal Resolution: Select years for for 2010, 2015 <br>
 Description: Access, Income characteristics <br>
 Files:??? <br>
 
-USDA/ERS Food Environment Atlas <br>
+Source: USDA/ERS Food Environment Atlas <br>
 Spatial Resolution: US Counties <br>
 Temporal Resolution: ??? <br>
 Description: ??? <br>
@@ -36,7 +36,7 @@ Files: ??? <br>
 
 ### Fishery Data Description
 
-Pacific States Marine Fisheries Commission - PacFIN database <br>
+Source: Pacific States Marine Fisheries Commission - PacFIN database <br>
 Spatial Resolution: ??? <br>
 Temporal Resolution: Annual 2010-2017 <br>
 Description: ??? <br>
@@ -44,7 +44,7 @@ Files: ??? <br>
 
 ### Public health Data Description
 
-??? <br>
+Source: ??? <br>
 Spatial Resolution: ??? <br>
 Temporal Resolution: ??? <br>
 Description: ??? <br>
