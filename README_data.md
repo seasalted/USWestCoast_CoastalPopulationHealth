@@ -6,9 +6,9 @@ Summary of socioeconomic, food access, public health, fishery, and seafood nutri
 
 ## Data 
 
-### Socioeconomics data description
+### Census-based data description
 
-Source: US Census Dicennial Census <br>
+Source: US Census Decennial Census <br>
 Spatial Resolution: <br>
 Temporal Resolution: Select years for 2000 <br>
 Description: ??? <br>
@@ -17,7 +17,8 @@ Files:??? <br>
 Source: US  Census American Community Survey (ACS) <br>
 Spatial Resolution: ??? <br>
 Temporal Resolution: Select years for 2010, 2015 <br>
-Description: Socioeconomic and demographic variables  <br>
+Description: Tract level estimates and percents for social (DP_02), economic (DP_03), and housing (DP_04) characteristics.
+Notably includes  health insurance and SNAP/Food Stamp benefits (in DP_03) <br>
 Files: ??? <br>
 
 ### Food Access data description
