@@ -11,7 +11,7 @@ Summary of socioeconomic, food access, public health, fishery, and seafood nutri
 Source: US Census Decennial Census <br>
 Spatial Resolution: <br>
 Temporal Resolution: Select years for 2000 <br>
-Description: Tract level estimates and percents for demographic (DP-1), social (DP-2), economic (DP-3), and housing (DP-4) characteristics note this does not include health care or Food Stamp benefits <br>
+Description: Tract level estimates and percents for demographic (DP-1), social (DP-2), economic (DP-3), and housing (DP-4) characteristics. Note this does not include health care or food stamp coverage <br>
 Files:??? <br>
 
 Source: US  Census American Community Survey (ACS) <br>
