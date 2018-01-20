@@ -10,14 +10,14 @@ Summary of socioeconomic, food access, public health, fishery, and seafood nutri
 
 Source: US Census Dicennial Census <br>
 Spatial Resolution: <br>
-Temporal Resolution: Annual for 2000, 2010 <br>
+Temporal Resolution: Select years for 2000 <br>
 Description: ??? <br>
 Files:??? <br>
 
 Source: US  Census American Community Survey (ACS) <br>
-Spatial Resolution: <br>
-Temporal Resolution: Select years for 2000, 2010 <br>
-Description: ??? <br>
+Spatial Resolution: ??? <br>
+Temporal Resolution: Select years for 2010, 2015 <br>
+Description: Socioeconomic and demographic variables  <br>
 Files: ??? <br>
 
 ### Food Access data description
