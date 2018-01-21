@@ -25,14 +25,14 @@ Files: ??? <br>
 
 Source: USDA/ERS Food Access Atlas <br>
 Spatial Resolution: US Census Tracts <br>
-Temporal Resolution: Select years for for 2010, 2015 <br>
+Temporal Resolution: Select years for 2010, 2015 <br>
 Description: Access, Income characteristics <br>
 Files:??? <br>
 
 Source: USDA/ERS Food Environment Atlas <br>
 Spatial Resolution: US Counties <br>
-Temporal Resolution: ??? <br>
-Description: ??? <br>
+Temporal Resolution: Select years for specific data from 2007-2015 <br>
+Description: Access and proximity to grocery store, store availability, restaurant availability and food expenditures, food assistance programs (SNAP), food insecurity, food prices and taxes, local foods, health and physical activities, socioeconomic characteristics <br>
 Files: ??? <br>
 
 ### Fishery data description
@@ -45,9 +45,9 @@ Files: ??? <br>
 
 ### Public health data description
 
-Source: ??? <br>
-Spatial Resolution: ??? <br>
-Temporal Resolution: ??? <br>
+Source: PolicyMap <br>
+Spatial Resolution: Select years for specific data from 2013 <br>
+Temporal Resolution: Census Tract [estimates] <br>
 Description: ??? <br>
 Files: ??? <br>
 
