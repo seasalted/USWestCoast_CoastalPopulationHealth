@@ -35,6 +35,12 @@ Temporal Resolution: Select years for specific data from 2007-2015 <br>
 Description: Access and proximity to grocery store, store availability, restaurant availability and food expenditures, food assistance programs (SNAP), food insecurity, food prices and taxes, local foods, health and physical activities, socioeconomic characteristics <br>
 Files: ??? <br>
 
+Source: USDA<br>
+Spatial Resolution: Address, County <br>
+Temporal Resolution: Uncertain, current presumably <br>
+Description: retail locations for SNAP, extracted from PolicyMap <br>
+Files: ??? <br>
+
 ### Fishery data description
 
 Source: Pacific States Marine Fisheries Commission - PacFIN database <br>
@@ -45,9 +51,9 @@ Files: ??? <br>
 
 ### Public health data description
 
-Source: PolicyMap <br>
-Spatial Resolution: Select years for specific data from 2013 <br>
-Temporal Resolution: Census Tract [estimates] <br>
-Description: ??? <br>
+Source: PolicyMap and BRFSS <br>
+Spatial Resolution: Census Tract <br>
+Temporal Resolution: Select years for specific data from 2013 <br>
+Description: Health data on physical inactivity and obesity risk factors; diabetes, high cholesterol, stroke diagnoses; low fruit and vegetable consumption. Uses small area estimates using Behavioral Risk Factor Surveillance System (BRFSS) data. Method appears similar to Zhiang's papers. <br>
 Files: ??? <br>
 
