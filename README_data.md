@@ -44,9 +44,9 @@ Files: ??? <br>
 ### Fishery data description
 
 Source: Pacific States Marine Fisheries Commission - PacFIN database <br>
-Spatial Resolution: ??? <br>
+Spatial Resolution: Port groups (~one per county) <br>
 Temporal Resolution: Annual 2010-2017 <br>
-Description: ??? <br>
+Description: Landings for all species for each port group <br>
 Files: ??? <br>
 
 ### Public health data description
