@@ -9,5 +9,5 @@ Project synthesizes socioeconomic, fishery, food access, and public health data 
 *Funding: UW Population Health Initiative Pilot Grant
 
 In this repo
-1. Description of data: README_data.md
+1. Description of data: DESC_data.md
 2. Scripts
