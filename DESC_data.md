@@ -6,13 +6,15 @@ Summary of socioeconomic, food access, public health, fishery, and seafood nutri
 
 ### Census-based data description
 
-Source: US Census Decennial Census <br>
+US Census Decennial Census<br>
+Source: census.gov  <br>
 Spatial Resolution: <br>
 Temporal Resolution: Select years for 2000 <br>
 Description: Tract level estimates and percents for demographic (DP-1), social (DP-2), economic (DP-3), and housing (DP-4) characteristics. Note this does not include health care or food stamp coverage <br>
 Files:??? <br>
 
-Source: US  Census American Community Survey (ACS) <br>
+US  Census American Community Survey (ACS) <br>
+Source: census.gov  <br>
 Spatial Resolution: ??? <br>
 Temporal Resolution: Select years for 2010, 2015 <br>
 Description: Tract level estimates and percents for social (DP_02), economic (DP_03), and housing (DP_04) characteristics.
@@ -21,20 +23,22 @@ Files: ??? <br>
 
 ### Food Access data description
 
-Source: USDA/ERS Food Access Atlas <br>
+Food access database <br>
+Source: USDA/ERS <br>
 Spatial Resolution: US Census Tracts <br>
 Temporal Resolution: Select years for 2010, 2015 <br>
 Description: Access, Income characteristics <br>
 Files:??? <br>
 
-Source: USDA/ERS Food Environment Atlas <br>
+Food environment database <br>
+Source: USDA/ERS <br>
 Spatial Resolution: US Counties <br>
 Temporal Resolution: Select years for specific data from 2007-2015 <br>
 Description: Access and proximity to grocery store, store availability, restaurant availability and food expenditures, food assistance programs (SNAP), food insecurity, food prices and taxes, local foods, health and physical activities, socioeconomic characteristics <br>
 Files: ??? <br>
 
-#### SNAP locations
-Source: USDA<br>
+SNAP locations <br>
+Source: USDA and PolicyMap <br>
 Spatial Resolution: Address, County <br>
 Temporal Resolution: Uncertain, current presumably <br>
 Description: retail locations for SNAP, extracted from PolicyMap <br>
@@ -42,6 +46,7 @@ Files: ??? <br>
 
 ### Fishery data description
 
+WA-OR-CA Fishery landings by port group <br>
 Source: Pacific States Marine Fisheries Commission - PacFIN database <br>
 Spatial Resolution: Port groups (~one per county) <br>
 Temporal Resolution: Annual 2010-2017 <br>
@@ -50,6 +55,7 @@ Files: ??? <br>
 
 ### Public health data description
 
+Health data <br>
 Source: PolicyMap and BRFSS <br>
 Spatial Resolution: Census Tract <br>
 Temporal Resolution: Select years for specific data from 2013 <br>
