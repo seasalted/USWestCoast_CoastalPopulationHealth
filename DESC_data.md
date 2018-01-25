@@ -33,6 +33,7 @@ Temporal Resolution: Select years for specific data from 2007-2015 <br>
 Description: Access and proximity to grocery store, store availability, restaurant availability and food expenditures, food assistance programs (SNAP), food insecurity, food prices and taxes, local foods, health and physical activities, socioeconomic characteristics <br>
 Files: ??? <br>
 
+#### SNAP locations
 Source: USDA<br>
 Spatial Resolution: Address, County <br>
 Temporal Resolution: Uncertain, current presumably <br>
